@@ -1,0 +1,7 @@
+\
+
+.socials a:hover {
+    background: #8b5cf6;
+    color: #fff;
+    transform: translateY(-3px);
+}
